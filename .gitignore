@@ -5,6 +5,17 @@
 /.pnp
 .pnp.js
 
+# binaries
+bin/
+dist/
+lib/
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+
 # testing
 /coverage
 
